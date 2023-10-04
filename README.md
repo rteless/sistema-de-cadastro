@@ -5,6 +5,6 @@
 
 Para rodar este projeto em sua maquina, por favor digite:
 '''
-node app.js
+node app react
 '''
 
